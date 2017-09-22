@@ -1,5 +1,7 @@
 //comment
-//Comment 2
+
+//Another comment
+
 public class Car{
 
 	//instantaneous variables
